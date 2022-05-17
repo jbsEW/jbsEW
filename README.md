@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jbsEW
-- 👀 I’m interested in signal processing and 
+- 👀 I’m interested in signal processing and machine learning
 - 🌱 I’m currently learning _everything 
 - 💞️ I’m looking to collaborate on _anything
 - 📫 How to reach me... TBD
